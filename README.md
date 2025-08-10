@@ -39,5 +39,3 @@ Output: `43`
 
 ---
 
-Feel free to explore each folder for the corresponding solutions and explanations.
-
